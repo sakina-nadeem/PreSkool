@@ -1,0 +1,3 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+11:30:14	101097/101097	---MCZ	200	added ('OK')	text/html	date:Tue,%2025%20Feb%202025%2007:54:49%20GMT	https://preskool.dreamstechnologies.com/html/template/student-dashboard.html	C:/Users/Admin/Desktop/Student%20Dashboard/preskool.dreamstechnologies.com/html/template/student-dashboard.html	(from )
+11:30:15	270/270	---M-Z	200	added ('OK')	text/plain	etag:%221f0-6300f523c21f3-gzip%22	https://preskool.dreamstechnologies.com/robots.txt		(from )
